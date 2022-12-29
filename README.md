@@ -26,7 +26,29 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan bot ini dengan bijak.
 
 ## 🛡 Installation
 ### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ramadhani892/3-BUTTONS)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ling-ex/3-Button)</br>
+
+<details>
+<summary><b>🔗 Deploy on VPS</b></summary>
+<br>
+    
+### Tutorial Deploy on VPS
+```console
+root@Hyper~ $ sudo su
+root@Hyper~ $ apt-get update && apt-get upgrade -y
+root@Hyper~ $ git clone https://github.com/Ling-ex/3-Button
+root@Hyper~ $ cd 3-Button
+root@Hyper~ $ pip3 install -U -r requirements.txt
+root@Hyper~ $ mv sample_config.env config.env
+root@Hyper~ $ nano config.env
+```
+> Isi varsnya
+> Jika sudah ketik ctrl + S
+> Terus ketik ctrl + X untuk keluar
+```console
+root@Hyper~ $ screen -S Hyper
+root@Hyper~ $ bash start
+
 
 
 <details>
@@ -67,14 +89,15 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan bot ini dengan bijak.
 </details>
 
 ## 🏷 Support   
-- Follow Channel [@Userbotch](https://t.me/userbotch) untuk info Update bot 
-- Gabung Group [@ramsupportt](https://t.me/ramsupportt) untuk diskusi, pelaporan bug, dan bantuan tentang File-Sharing-Man.
+- Follow Channel [@storyQi](https://t.me/storyQi) untuk info Update bot 
+- Gabung Group [@HyperSupportQ](https://t.me/HyperSupportQ) untuk diskusi, pelaporan bug, dan bantuan tentang File-Sharing-Man.
 
 ## 👨🏻‍💻 Credits
 
 -  [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram)
 -  [Risman](https://github.com/mrismanaziz) for [File-Sharing-Man](https://github.com/mrismanaziz/File-Sharing-Man)
 -  [Rama](https://github.com/ramadhani892) for [3-BUTTONS](https://github.com/ramadhani892/3-BUTTONS)
+-  [Ling](https://github.com/Ling-ex) for [3-Button](https://github.com/Ling-ex/3-Button)
 -  Based on [CodeXBotz](https://github.com/CodeXBotz) Repo [File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
 
 ## 📑 License
