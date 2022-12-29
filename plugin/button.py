@@ -1,7 +1,7 @@
 # Credits: @mrismanaziz
 # FROM File-Sharing-Man <https://github.com/mrismanaziz/File-Sharing-Man/>
-# t.me/userbotch & t.me/ramsupportt
-# Add Code FROM 3-BUTTONS <https://github.com/ramadhani892/3-BUTTONS
+# t.me/storyQi & t.me/HyperSupportQ
+# Add Code FROM 3-BUTTONS <https://github.com/Ling-ex/3-Button
 
 from config import FORCE_SUB_CHANNEL, FORCE_SUB_GROUP, FORCE_SUB_GROUP2
 from pyrogram.types import InlineKeyboardButton
