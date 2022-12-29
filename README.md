@@ -29,7 +29,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan bot ini dengan bijak.
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ling-ex/3-Button)</br>
 
 <details>
-<summary><b>🔗 Deploy on VPS</b></summary>
+<summary><h3><b>🔗 Deploy on VPS</b></h3></summary>
 <br>
     
 ### Tutorial Deploy on VPS
@@ -43,15 +43,14 @@ root@Hyper~ $ mv sample_config.env config.env
 root@Hyper~ $ nano config.env
 ```
 > Isi varsnya
-> Jika sudah ketik ctrl + S
-> Terus ketik ctrl + X untuk keluar
+> Jika sudah ketik `ctrl + S`
+> Terus ketik `ctrl + X` untuk keluar
 ```console
 root@Hyper~ $ screen -S Hyper
 root@Hyper~ $ bash start
+```
 
-
-
-<details>
+</details>
 <summary><h3><b>🔗 Extra Custom & List Vars</b></h3></summary>
 
 ### Variables
