@@ -1,7 +1,7 @@
 # (©)Codexbotz
 # Recode by @mrismanaziz
 # t.me/SharingUserbot & t.me/Lunatic0de
-
+# t.me/HyperSupportQ & t.me/storyQi
 import asyncio
 
 from pyrogram import Client, filters
