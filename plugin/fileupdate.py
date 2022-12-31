@@ -1,6 +1,7 @@
 # Credits: @mrismanaziz
 # FROM File-Sharing-Man <https://github.com/mrismanaziz/File-Sharing-Man/>
 # t.me/SharingUserbot & t.me/Lunatic0de
+# t.me/HyperSupportQ & t.me/storyQi
 
 import os
 import sys
@@ -14,7 +15,7 @@ from pyrogram.types import Message
 
 from config import ADMINS, LOGGER
 
-UPSTREAM_REPO = "https://github.com/ramadhani892/3-BUTTONS"
+UPSTREAM_REPO = "https://github.com/Ling-ex/3-Button"
 
 
 def gen_chlog(repo, diff):
