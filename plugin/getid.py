@@ -1,3 +1,5 @@
+# t.me/HyperSupportQ & t.me/storyQi
+
 """Get id of the replied user
 Syntax: /id"""
 
