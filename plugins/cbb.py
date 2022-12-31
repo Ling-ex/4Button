@@ -3,6 +3,7 @@
 # t.me/SharingUserbot & t.me/Lunatic0de
 # Recode now By @thisrama
 # t.me/ramsupportt & t.me/userbotch
+# t.me/HyperSupportQ & t.me/storyQi
 
 from pyrogram.types import CallbackQuery, InlineKeyboardButton, InlineKeyboardMarkup
 
@@ -15,7 +16,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
     data = query.data
     if data == "about":
         await query.message.edit_text(
-            text=f"<b>Informasi.\n\n • OWNER REPO : @thisrama\n • CHANNEL : <a href='https://t.me/k0kb4c0de'>JOIN</a>\n • GROUP : <a href='https://t.me/ramsupportt'>JOIN</a>\n\n Support @userbotch</b>\n",
+            text=f"<b>Informasi.\n\n • OWNER REPO : @excute7\n • CHANNEL : <a href='https://t.me/storyQi'>JOIN</a>\n • GROUP : <a href='https://t.me/HyperSupportQ'>JOIN</a>\n\n Support @ProjectHyper</b>\n",
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
                 [[InlineKeyboardButton("• ᴛᴜᴛᴜᴘ •", callback_data="close")]]
