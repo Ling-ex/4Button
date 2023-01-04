@@ -33,7 +33,7 @@ class Broadcast(BASE):
 Broadcast.__table__.create(checkfirst=True)
 
 
-#  Add user details -
+#  Add user details 
 async def add_user(id, user_name):
     with INSERTION_LOCK:
         msg = SESSION.query(Broadcast).get(id)
