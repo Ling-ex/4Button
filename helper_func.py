@@ -169,6 +169,7 @@ async def get_message_id(client, message):
 subsgc = filters.create(subsgroup)
 subsch = filters.create(subschannel)
 substai = filters.create(subsgroup2)
+subslol = filters.create(subsgroup3)
 subsall = filters.create(is_subscribed)
 
 #excute7 nyempil dikit wkwk
