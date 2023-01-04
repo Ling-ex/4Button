@@ -1,7 +1,8 @@
 
-# (©)Codexbotz
-# Recode by @mrismanaziz
+# (©)Codexbotz 
+# Recode by @mrismanaziz & @excute7
 # t.me/SharingUserbot & t.me/Lunatic0de
+# t.me/HyperSupportQ & t.me/storyQi
 
 import asyncio
 from datetime import datetime
