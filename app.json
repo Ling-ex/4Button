@@ -1,5 +1,5 @@
 {
-  "name": "F-SUBS 3 BUTTON",
+  "name": "F-SUBS 4 BUTTON",
   "description": "BOT Multi Force Subs File Sharing Bot berguna untuk menyimpan file dan dapat diakses melalui link khusus",
   "keywords": [
     "telegram",
@@ -54,6 +54,10 @@
       "value": "0"
     },
     "FORCE_SUB_GROUP2": {
+      "description": "Masukan ID Group / Channel Untuk Wajib Subscribe, Bila Ga kepake isi 0",
+      "value": "0"
+    },
+    "FORCE_SUB_GROUP3": {
       "description": "Masukan ID Group / Channel Untuk Wajib Subscribe, Bila Ga kepake isi 0",
       "value": "0"
     },
