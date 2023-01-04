@@ -7,10 +7,10 @@
 #
 # All rights reserved.
 #
-# Ported by @mrismanaziz
+# Ported by @mrismanaziz & @excute7
 # FROM File-Sharing-Man < https://github.com/mrismanaziz/File-Sharing-Man/ >
 # t.me/Lunatic0de & t.me/SharingUserbot
-#
+# t.me/storyQi & t.me/HyperSupportQ
 
 import os
 import socket
